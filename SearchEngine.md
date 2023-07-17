@@ -8,7 +8,7 @@ It allows users to enter specific keywords, phrases, or questions related to the
 
 <p>Search engines use complex algorithms and web crawlers to scan and index vast amounts of information available on the web. They analyse various factors, such as keyword relevance, page quality, and user popularity, to determine the most relevant and useful results for a given search query. The results are typically presented in a ranked list, with the most relevant pages appearing higher in the list.</p>
 
-<h1 align="center" style="color:black;"> <u> <b>Some popular search engines include </h1></u><b><h1 align="center" style="color:yellow;">Google</h1>, <h1 align="center" style="color:red;">Bing</h1><h1 align="center" style="color:green;"> Yahoo</h1><h1 align="center" style="color:black;">  DuckDuckGo.</h1>
+<h1 align="center" style="color:black;"> <u> <b>Some popular search engines include </h1></u><b><h1 align="center" style="color:yellow;">Google</h1> <h1 align="center" style="color:red;">Bing</h1><h1 align="center" style="color:green;"> Yahoo</h1><h1 align="center" style="color:black;">  DuckDuckGo.</h1>
 
 <p style="color:blue;">An estimated 70% to 80% of internet users use Google as a search Engine and 30% to 20% internet users use other search Engines.</p>
 
@@ -30,7 +30,7 @@ It allows users to enter specific keywords, phrases, or questions related to the
 
 <h1 align="center" style="color:black;"> <u> <b>Explain web crawler and a crawling?</h1></b></u>
 
-<img style="margin-left:30%" src="crawler.jpg"></img>
+<img style="margin-center:30%" src="crawler.jpg"></img>
 <h2 style="color:darkred;display:inline"><u>Web crawling</h2></u>
 <p style="color:black;">Web crawling also known as web scraping or spidering, refers to the automated process of systematically browsing and extracting information from websites across the internet. It involves using software programs called web crawlers or spiders to navigate through web pages, following hyperlinks to discover and gather data from various sources.</p>
 
